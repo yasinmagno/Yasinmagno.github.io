@@ -385,6 +385,10 @@ h1 {
     position: relative;
 }
 
+.projeto-imagem-vertical {
+    height: 880px; /* Altura maior para screenshots verticais de telemóvel */
+}
+
 .projeto-imagem {
     height: 100%;
     width: 100%;
@@ -845,4 +849,5 @@ footer {
     .menu {
         padding-top: 100px;
     }
+
 }
